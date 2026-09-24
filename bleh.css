@@ -1,11 +1,21 @@
-/* ----------------------------------------- Users Color Username ----------------------------------------- */
+/* ----------------------------------------- Color Usernames ----------------------------------------- */
 
 /* lazyperson */
 [data-author-id="1004365973765243020"] .contents_c19a55 .username_c19a55 {
     color: rgb(255, 255, 255) !important;
 }
 
-/* ----------------------------------------- Users Custom Icon ----------------------------------------- */
+/* grey */
+[data-author-id="1077703408884121630"] .contents_c19a55 .username_c19a55 {
+    color: rgb(28, 28, 28) !important;
+}
+
+/* nura */
+[data-author-id="906927991442006027"] .contents_c19a55 .username_c19a55 {
+    color: rgb(127, 0, 255) !important;
+}
+
+/* ----------------------------------------- Custom Icons ----------------------------------------- */
 
 /* lazyperson */
 [data-author-id="1004365973765243020"] .contents_c19a55 .username_c19a55::after {
@@ -17,4 +27,16 @@
     margin-bottom: 2px;
     vertical-align: middle;
     background: url("https://tr.rbxcdn.com/180DAY-4b1687fa078b00bdc3b27e21c73efd48/150/150/Image/Png/noFilter") center/contain no-repeat;
+}
+
+/* nura */
+[data-author-id="906927991442006027"] .contents_c19a55 .username_c19a55::after {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 4px;
+    margin-bottom: 2px;
+    vertical-align: middle;
+    background: url("https://static.wikia.nocookie.net/pswgb/images/a/a7/Stockers_new_render.png/revision/latest?cb=20260215202610") center/contain no-repeat;
 }
