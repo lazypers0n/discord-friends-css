@@ -36,17 +36,6 @@
     width: 20px;
     height: 20px;
     margin-left: 4px;
-    margin-bottom: 2px;
-    vertical-align: middle;
-    background: url("https://static.wikia.nocookie.net/pswgb/images/a/a7/Stockers_new_render.png/revision/latest?cb=20260215202610") center/contain no-repeat;
-}
-
-[data-author-id="906927991442006027"] .contents_c19a55 .username_c19a55::after {
-    content: "";
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    margin-left: 4px;
     vertical-align: middle;
     background: url("https://static.wikia.nocookie.net/pswgb/images/a/a7/Stockers_new_render.png/revision/latest?cb=20260215202610") center / contain no-repeat;
     position: relative;
