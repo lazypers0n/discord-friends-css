@@ -1,4 +1,20 @@
-/* test */
-body {
-    background-color: red !important;
+/* ----------------------------------------- Users Color Username ----------------------------------------- */
+
+/* lazyperson */
+[data-author-id="1004365973765243020"] .contents_c19a55 .username_c19a55 {
+    color: rgb(255, 255, 255) !important;
+}
+
+/* ----------------------------------------- Users Custom Icon ----------------------------------------- */
+
+/* lazyperson */
+[data-author-id="1004365973765243020"] .contents_c19a55 .username_c19a55::after {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 4px;
+    margin-bottom: 2px;
+    vertical-align: middle;
+    background: url("https://tr.rbxcdn.com/180DAY-4b1687fa078b00bdc3b27e21c73efd48/150/150/Image/Png/noFilter") center/contain no-repeat;
 }
