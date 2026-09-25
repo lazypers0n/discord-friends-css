@@ -15,6 +15,11 @@
     color: rgb(98, 40, 224) !important;
 }
 
+/* domer */
+[data-author-id="960854670979530762"] .contents_c19a55 .username_c19a55 {
+    color: rgb(255, 255, 255) !important;
+}
+
 /* ----------------------------------------- Custom Icons ----------------------------------------- */
 
 /* lazyperson */
@@ -29,6 +34,19 @@
     background: url("https://tr.rbxcdn.com/180DAY-4b1687fa078b00bdc3b27e21c73efd48/150/150/Image/Png/noFilter") center/contain no-repeat;
 }
 
+/* grey */
+[data-author-id="1077703408884121630"] .contents_c19a55 .username_c19a55::after {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 4px;
+    vertical-align: middle;
+    background: url("https://preview.redd.it/red-letter-tac9-v0-bypk3h693ieh1.png?width=640&crop=smart&auto=webp&s=de1555e9b9178b0acc83d5c719a47e3791ada2b0") center / contain no-repeat;
+    position: relative;
+    top: -1px;
+}
+
 /* nura */
 [data-author-id="906927991442006027"] .contents_c19a55 .username_c19a55::after {
     content: "";
@@ -38,6 +56,19 @@
     margin-left: 4px;
     vertical-align: middle;
     background: url("https://static.wikia.nocookie.net/pswgb/images/a/a7/Stockers_new_render.png/revision/latest?cb=20260215202610") center / contain no-repeat;
+    position: relative;
+    top: -1px;
+}
+
+/* domer */
+[data-author-id="960854670979530762"] .contents_c19a55 .username_c19a55::after {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 4px;
+    vertical-align: middle;
+    background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd8a58af-39fc-4f22-9d17-357be24dfc1b/dgdfgmz-4e1a9c36-2435-4f9d-9627-c276c1759575.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mZDhhNThhZi0zOWZjLTRmMjItOWQxNy0zNTdiZTI0ZGZjMWIvZGdkZmdtei00ZTFhOWMzNi0yNDM1LTRmOWQtOTYyNy1jMjc2YzE3NTk1NzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qdmPYcthdMu64hIHPAOOTkTA6q-o88U3VRi8sK-uh9E") center / contain no-repeat;
     position: relative;
     top: -1px;
 }
