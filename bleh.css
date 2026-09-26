@@ -20,6 +20,12 @@
     color: rgb(255, 255, 255) !important;
 }
 
+/* nikitaX */
+[data-author-id="1389966154612740128"] .contents_c19a55 .username_c19a55 {
+    color: rgb(0, 114, 15) !important;
+}
+
+
 /* ----------------------------------------- Custom Icons ----------------------------------------- */
 
 /* lazyperson */
@@ -69,6 +75,19 @@
     margin-left: 4px;
     vertical-align: middle;
     background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd8a58af-39fc-4f22-9d17-357be24dfc1b/dgdfgmz-4e1a9c36-2435-4f9d-9627-c276c1759575.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mZDhhNThhZi0zOWZjLTRmMjItOWQxNy0zNTdiZTI0ZGZjMWIvZGdkZmdtei00ZTFhOWMzNi0yNDM1LTRmOWQtOTYyNy1jMjc2YzE3NTk1NzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qdmPYcthdMu64hIHPAOOTkTA6q-o88U3VRi8sK-uh9E") center / contain no-repeat;
+    position: relative;
+    top: -1px;
+}
+
+/* nikitaX */
+[data-author-id="1389966154612740128"] .contents_c19a55 .username_c19a55::after {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 4px;
+    vertical-align: middle;
+    background: url("https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Nokia_3310_Blue_R7309170_%28retouch%29.png/250px-Nokia_3310_Blue_R7309170_%28retouch%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail") center / contain no-repeat;
     position: relative;
     top: -1px;
 }
