@@ -1,27 +1,27 @@
 /* ----------------------------------------- Color Usernames ----------------------------------------- */
 
 /* lazyperson */
-[data-author-id="1004365973765243020"] .contents_c19a55 .username_c19a55 {
+[data-author-id="1004365973765243020"] [class*="contents_"] [class*="username_"] {
     color: rgb(255, 255, 255) !important;
 }
 
-/* grey */
-[data-author-id="1077703408884121630"] .contents_c19a55 .username_c19a55 {
+/* grey / noob */
+[data-author-id="1077703408884121630"] [class*="contents_"] [class*="username_"] {
     color: rgb(28, 28, 28) !important;
 }
 
 /* nura */
-[data-author-id="906927991442006027"] .contents_c19a55 .username_c19a55 {
+[data-author-id="906927991442006027"] [class*="contents_"] [class*="username_"] {
     color: rgb(98, 40, 224) !important;
 }
 
 /* domer */
-[data-author-id="960854670979530762"] .contents_c19a55 .username_c19a55 {
+[data-author-id="960854670979530762"] [class*="contents_"] [class*="username_"] {
     color: rgb(255, 255, 255) !important;
 }
 
 /* nikitaX */
-[data-author-id="1389966154612740128"] .contents_c19a55 .username_c19a55 {
+[data-author-id="1389966154612740128"] [class*="contents_"] [class*="username_"] {
     color: rgb(0, 114, 15) !important;
 }
 
@@ -29,7 +29,7 @@
 /* ----------------------------------------- Custom Icons ----------------------------------------- */
 
 /* lazyperson */
-[data-author-id="1004365973765243020"] .contents_c19a55 .username_c19a55::after {
+[data-author-id="1004365973765243020"] [class*="contents_"] [class*="username_"]::after {
     content: "";
     display: inline-block;
     width: 20px;
@@ -37,57 +37,57 @@
     margin-left: 4px;
     margin-bottom: 2px;
     vertical-align: middle;
-    background: url("https://tr.rbxcdn.com/180DAY-4b1687fa078b00bdc3b27e21c73efd48/150/150/Image/Png/noFilter") center/contain no-repeat;
+    background: url("https://rbxcdn.com") center/contain no-repeat;
 }
 
-/* grey */
-[data-author-id="1077703408884121630"] .contents_c19a55 .username_c19a55::after {
+/* grey / noob */
+[data-author-id="1077703408884121630"] [class*="contents_"] [class*="username_"]::after {
     content: "";
     display: inline-block;
     width: 20px;
     height: 20px;
     margin-left: 4px;
     vertical-align: middle;
-    background: url("https://preview.redd.it/red-letter-tac9-v0-bypk3h693ieh1.png?width=640&crop=smart&auto=webp&s=de1555e9b9178b0acc83d5c719a47e3791ada2b0") center / contain no-repeat;
+    background: url("https://redd.it") center / contain no-repeat;
     position: relative;
     top: -1px;
 }
 
 /* nura */
-[data-author-id="906927991442006027"] .contents_c19a55 .username_c19a55::after {
+[data-author-id="906927991442006027"] [class*="contents_"] [class*="username_"]::after {
     content: "";
     display: inline-block;
     width: 20px;
     height: 20px;
     margin-left: 4px;
     vertical-align: middle;
-    background: url("https://static.wikia.nocookie.net/pswgb/images/a/a7/Stockers_new_render.png/revision/latest?cb=20260215202610") center / contain no-repeat;
+    background: url("https://nocookie.net") center / contain no-repeat;
     position: relative;
     top: -1px;
 }
 
 /* domer */
-[data-author-id="960854670979530762"] .contents_c19a55 .username_c19a55::after {
+[data-author-id="960854670979530762"] [class*="contents_"] [class*="username_"]::after {
     content: "";
     display: inline-block;
     width: 20px;
     height: 20px;
     margin-left: 4px;
     vertical-align: middle;
-    background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd8a58af-39fc-4f22-9d17-357be24dfc1b/dgdfgmz-4e1a9c36-2435-4f9d-9627-c276c1759575.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mZDhhNThhZi0zOWZjLTRmMjItOWQxNy0zNTdiZTI0ZGZjMWIvZGdkZmdtei00ZTFhOWMzNi0yNDM1LTRmOWQtOTYyNy1jMjc2YzE3NTk1NzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qdmPYcthdMu64hIHPAOOTkTA6q-o88U3VRi8sK-uh9E") center / contain no-repeat;
+    background: url("https://wixmp.com") center / contain no-repeat;
     position: relative;
     top: -1px;
 }
 
 /* nikitaX */
-[data-author-id="1389966154612740128"] .contents_c19a55 .username_c19a55::after {
+[data-author-id="1389966154612740128"] [class*="contents_"] [class*="username_"]::after {
     content: "";
     display: inline-block;
     width: 20px;
     height: 20px;
     margin-left: 4px;
     vertical-align: middle;
-    background: url("https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Nokia_3310_Blue_R7309170_%28retouch%29.png/250px-Nokia_3310_Blue_R7309170_%28retouch%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail") center / contain no-repeat;
+    background: url("https://wikimedia.org") center / contain no-repeat;
     position: relative;
     top: -1px;
 }
